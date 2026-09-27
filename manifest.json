@@ -1,0 +1,28 @@
+{
+  "name": "KALKULYATOR",
+  "short_name": "KALKULYATOR",
+  "id": "/taxmin-calculator",
+  "description": "Matematik funksiyalar, taxmin rejimi va birliklar konvertori bilan ilmiy kalkulyator.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0909",
+  "theme_color": "#af2bc08",
+  "lang": "uz",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
